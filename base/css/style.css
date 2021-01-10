@@ -1,0 +1,182 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color: black;
+    color: #ffffff;
+}
+p,a{
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}
+.inner{
+    width: 320px;
+    margin: 0 auto;
+}
+.a{
+    width: 310px;
+    height: 50px;
+    margin: 0 auto;
+}
+.add{
+    width: 44px;
+    height: 30px;
+    float: left;
+    border:1px solid #fff;
+    margin: 10px;
+    text-align: center;
+}
+.add p a{
+    line-height: 30px;
+    font-size: 14px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.search{
+    width: 220px;
+    float: right;
+    padding:10px 0;
+}
+.formcss{
+    width: 130px;
+    height: 30px;
+    border:1px solid #fff;
+    outline: none;
+    text-align: center;
+    line-height: 30px;
+}
+.formsub{
+    width: 78px;
+    height: 30px;
+    background-color: #fff;
+    cursor: pointer;
+    line-height: 30px;
+    text-align: center;
+}
+
+.b{
+    width: 310px;
+    height: 40px;
+    margin: 20px auto 0 auto;
+}
+.ba{
+    width: 180px;
+    height: 30px;
+    float: left;
+    border:1px solid #fff;
+    text-align: center;
+}
+.ba p{
+    line-height: 30px;
+}
+.but{
+    width: 50px;
+    height: 30px;
+    margin: 0 2px 0 3px;
+    border:1px solid #fff;
+    text-align: center;
+    float: left;
+}
+.but p{
+    line-height: 30px;
+}
+.bb{
+    width: 220px;
+    height: 30px;
+    float: left;
+    border:1px solid #fff;
+    text-align: center;
+}
+.bb p{
+    line-height: 30px;
+}
+
+
+/*add*/
+.form{
+    width: 310px;
+    margin: 0 auto;
+}
+.per{
+    width: 310px;
+    height: 40px;
+    margin: 10px 0 0 0;
+}
+.formadd{
+    width: 310px;
+    height: 35px;
+    border:1px solid #fff;
+    outline: none;
+    text-align: center;
+}
+.subadd{
+    width: 310px;
+    height: 30px;
+    background-color: #fff;
+    cursor: pointer;
+    line-height: 30px;
+    text-align: center;
+}
+
+
+/*info*/
+.ee{
+    width: 310px;
+    margin: 10px auto;
+}
+.adda{
+    width: 44px;
+    height: 30px;
+    float: left;
+    border:1px solid #fff;
+    margin: 10px;
+    text-align: center;
+}
+.namein {
+    width: 170px;
+    height: 50px;
+    text-align: center;
+    float: left;
+}
+.namein p{
+    line-height:50px;
+}
+
+.searcha{
+    width: 310px;
+    padding:10px 0;
+    text-align: center;
+}
+.formcssa{
+    width: 200px;
+    height: 30px;
+    border:1px solid #fff;
+    outline: none;
+    text-align: center;
+    line-height: 30px;
+}
+
+.pera{
+    border-bottom:1px solid #eee;
+    width: 310px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+.pera p,.pera p a{
+    line-height: 30px;
+    font-size: 14px;
+}
+
+.perb{
+    width: 310px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+.perb p,.perb p a{
+    line-height: 30px;
+    font-size: 14px;
+    color: #fff;
+}
